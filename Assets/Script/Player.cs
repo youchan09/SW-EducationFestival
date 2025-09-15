@@ -15,5 +15,9 @@ public class Player : MonoBehaviour
         float v = Input.GetAxisRaw("Vertical");
         Vector3 movement = new Vector3(h, v, 0).normalized * speed * Time.deltaTime;
         transform.Translate(movement);
+        if (h == 0)
+        {
+            Debug.Log("김강민");
+        }
     }
 }
