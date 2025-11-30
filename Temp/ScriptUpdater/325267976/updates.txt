@@ -1,0 +1,1 @@
+Temp/ScriptUpdater/325267976/1947950117_ShockWave.cs => Assets/Script/ShockWave.cs
