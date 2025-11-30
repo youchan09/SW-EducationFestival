@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6da80bc96af4c4916b5dcff52fdff435
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 195900
+  packageName: GothicVania Magic Pack 6
+  packageVersion: 1.0
+  assetPath: Assets/Gothicvania Magic Pack 6/Sprites/HorizontalElectricSlash/electric-slash-horizontal1.controller
+  uploadId: 434845

@@ -6,8 +6,20 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Kimkangmin/Scenes/SampleScene.unity
-    guid: 8c9cfa26abfee488c85f1582747f6a02
+    path: Assets/kimsechan/Scenes/Chap_2.unity
+    guid: 3d1efcf97efc44e3fa1d1ffaa05cce90
+  - enabled: 1
+    path: Assets/kimsechan/Scenes/Chap_3.unity
+    guid: 3e3aa6f26f7ac4f5ab25bf38f871fa64
+  - enabled: 1
+    path: Assets/kimsechan/Scenes/Chap_4.unity
+    guid: 171eb83d5c5fb480483cab160c3e746d
+  - enabled: 1
+    path: Assets/kimsechan/Scenes/Job_Select.unity
+    guid: 6a2c435047c1d49a081f0b58b0f666c5
+  - enabled: 1
+    path: Assets/kimsechan/Scenes/next.unity
+    guid: 18afdfdb83fbc487ca87816f4a844fb7
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0
